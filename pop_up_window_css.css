@@ -1,0 +1,28 @@
+<style>
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#333333;
+	font-size: 11px;
+	background: #d8d8d8;
+ 	}
+ 
+ a {
+	color:#2376A1;
+	text-decoration:none;
+	outline:none;
+	}
+	
+a:hover {
+   text-decoration:none;
+	}
+ 
+ p {
+	color: #333333;
+	line-height: 1.5em;
+	margin: 4px 0 10px;
+	}
+
+.gs_rt {
+ 	font-size: medium;
+	}
+</style>
